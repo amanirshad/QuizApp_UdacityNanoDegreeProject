@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">کوئز ایپ</string>
+    <string name="hint">اپنا جواب یہاں درج کریں۔</string>
+    <string name="question_text">سوال:</string>
+    <string name="question1">1. لوڈ ، اتارنا Android کی طرف سے تیار کیا گیا ہے؟</string>
+    <string name="question2">2. اینڈروئیڈ کس دانا پر مبنی ہے؟</string>
+    <string name="question3">3. کس اسکرین پر متن کی نمائش کے لئے دیکھیں؟</string>
+    <string name="question4">4. مندرجہ ذیل میں سے کون سے صحیح گروہ ہیں؟</string>
+    <string name="submit">اپنا جواب جمع کروائیں</string>
+</resources>

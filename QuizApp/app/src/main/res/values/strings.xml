@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question_text">Question :</string>
+    <string name="question1">1. Android is developed by ?</string>
+    <string name="google" translatable="false">Google</string>
+    <string name="microsoft" translatable="false">Microsoft</string>
+    <string name="androidinc" translatable="false">Android Inc</string>
+    <string name="apple" translatable="false">Apple</string>
+    <string name="question2">2. Android is based on which Kernel ?</string>
+    <string name="linux" translatable="false">Linux</string>
+    <string name="windows" translatable="false">Windows</string>
+    <string name="mac" translatable="false">Mac OS</string>
+    <string name="redhat" translatable="false">RedHat</string>
+    <string name="question3">3. Which View is used for displaying text on screen ?</string>
+    <string name="hint">Enter your answer here.</string>
+    <string name="question4">4. Which of the following are correct View groups?</string>
+    <string name="edittext" translatable="false">EditText</string>
+    <string name="textview" translatable="false">TextView</string>
+    <string name="imageview" translatable="false">ImageView</string>
+    <string name="smsmanager" translatable="false">SMSManager</string>
+    <string name="submit">Submit your answer</string>
+</resources>
